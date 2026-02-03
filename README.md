@@ -21,7 +21,7 @@
     .btn-main{background:var(--verde-neon);color:#000;font-weight:700;}
     .hero{
       background:linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.65)),
-      url('[https://images.unsplash.com/photo-1508780709619-79562169bc64?q=80&w=1600&auto=format&fit=crop](https://unsplash.com/es/fotos/hombre-bajo-el-arbol-durante-el-dia-boE2xft0cAo)');
+      url('[https://unsplash.com/es/fotos/hombre-bajo-el-arbol-durante-el-dia-boE2xft0cAo]');
       background-size:cover;background-position:center;
       color:#fff;
       padding:140px 20px;
